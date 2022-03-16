@@ -11,3 +11,7 @@ Este e o ficheiro principal
 > git commit -m "ficheiro principal.md"
 
 
+**Comando 3** 
+> echo "*.bak">>.gitignore
+
+
