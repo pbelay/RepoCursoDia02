@@ -2,7 +2,7 @@
 
 ## Local
 
-Este e o ficheiro principal
+Este é o ficheiro principal
 
 **Comando 1**
 > git init
@@ -12,6 +12,7 @@ Este e o ficheiro principal
 > git config --global user.name "nomeusuuario"
 
 **Comando 2**
+
 > git add principal.md
 
 > git commit -m "ficheiro principal.md"
@@ -38,12 +39,16 @@ Outra alternativa:
 - Comando
 
 > git remote add origin git@github.com:pbelay/RepoCursoDia02.git
+
 > git branch -M main
+
 > git push -u origin main
 
 -Subir contido
 
 >git add .
+
 >git commit -m "actualizado"
+
 >git push -u origin main
 
