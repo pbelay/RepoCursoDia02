@@ -22,6 +22,9 @@ Este e o ficheiro principal
 > git add .
 > git commit -m "cambios"
 
+Outra alternativa:
+> git commit -m "cambios" -a 
+
 ## Subir a nube
 
 - Ligazón do repo :
