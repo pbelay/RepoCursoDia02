@@ -1,4 +1,5 @@
 # Principal
+
 ##Local
 Este e o ficheiro principal
 
@@ -21,6 +22,7 @@ Este e o ficheiro principal
 > git commit -m "cambios"
 
 ##Subir a nube
+
 - Ligazón do repo : git@github.com:pbelay/RepoCursoDia02.git
 - Comando
 
