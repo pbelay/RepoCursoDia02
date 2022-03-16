@@ -1,4 +1,5 @@
 # Principal
+##Local
 Este e o ficheiro principal
 
 **Comando 1**
@@ -14,4 +15,21 @@ Este e o ficheiro principal
 **Comando 3** 
 > echo "*.bak">>.gitignore
 
+
+**Comando 4**
+> git add .
+> git commit -m "cambios"
+
+##Subir a nube
+- Ligazón do repo : git@github.com:pbelay/RepoCursoDia02.git
+- Comando
+
+> git remote add origin git@github.com:pbelay/RepoCursoDia02.git
+git branch -M main
+git push -u origin main
+
+-Subir contido
+git add .
+git commit -m "actualizado"
+git push -u origin main
 
